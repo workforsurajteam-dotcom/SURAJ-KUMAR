@@ -1,0 +1,7 @@
+{
+  "name": "WhiteCoatOnly",
+  "description": "An ethical, distraction-controlled social platform exclusively for medical students. Convert scrolling time into learning, reflection, and professional growth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
